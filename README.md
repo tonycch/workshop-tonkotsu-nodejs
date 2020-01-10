@@ -2,7 +2,7 @@
 
 this is tony PR to master again
 
-demo for pingan 2020-01-09
+demo for webank
 
 This repository contains the base project part of our on-site GitHub Verified Partner workshop program. It is meant to be used for in-classroom training under the supervision of GitHub coaches.
 
